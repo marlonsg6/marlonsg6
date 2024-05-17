@@ -2,7 +2,8 @@
 
  <div>
    <a href="https://github.com/marlonsg6">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonsg6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=Marlon-Guedesx&theme=merko"/>
+<!--    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonsg6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonsg6&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
